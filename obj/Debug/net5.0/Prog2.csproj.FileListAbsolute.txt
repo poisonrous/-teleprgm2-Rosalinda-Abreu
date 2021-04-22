@@ -1,0 +1,16 @@
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\Prog2.exe
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\Prog2.deps.json
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\Prog2.runtimeconfig.json
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\Prog2.runtimeconfig.dev.json
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\Prog2.dll
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\ref\Prog2.dll
+C:\Users\RAFAEL\Documents\Prog2\bin\Debug\net5.0\Prog2.pdb
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.csprojAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.AssemblyInfo.cs
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.dll
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\ref\Prog2.dll
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.pdb
+C:\Users\RAFAEL\Documents\Prog2\obj\Debug\net5.0\Prog2.genruntimeconfig.cache
