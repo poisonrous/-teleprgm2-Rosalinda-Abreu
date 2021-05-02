@@ -1,0 +1,16 @@
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\Veterinaria.exe
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\Veterinaria.deps.json
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\Veterinaria.runtimeconfig.json
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\Veterinaria.runtimeconfig.dev.json
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\Veterinaria.dll
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\ref\Veterinaria.dll
+C:\Users\RAFAEL\Documents\Veterinaria\bin\Debug\net5.0\Veterinaria.pdb
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.csprojAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.AssemblyInfo.cs
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.dll
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\ref\Veterinaria.dll
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.pdb
+C:\Users\RAFAEL\Documents\Veterinaria\obj\Debug\net5.0\Veterinaria.genruntimeconfig.cache
