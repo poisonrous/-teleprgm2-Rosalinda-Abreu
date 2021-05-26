@@ -1,0 +1,16 @@
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\IA.exe
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\IA.deps.json
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\IA.runtimeconfig.json
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\IA.runtimeconfig.dev.json
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\IA.dll
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\ref\IA.dll
+C:\Users\RAFAEL\Documents\IA\bin\Debug\net5.0\IA.pdb
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.csprojAssemblyReference.cache
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.AssemblyInfo.cs
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.dll
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\ref\IA.dll
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.pdb
+C:\Users\RAFAEL\Documents\IA\obj\Debug\net5.0\IA.genruntimeconfig.cache
